@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+  input.myfaves-favetags{
+ 	display:none;
+ 	max-width:200px;
+ 	border-radius: 4px !important;
+ }
+
+ .myfaves-class-listimg{
+ 	width:150px;
+ 	height: auto;
+ }
+
+ .myfaves-class-listimgdiv{
+ 	width:155px;
+ 	padding:0;
+ 	height: auto;
+ }
+ .myfaves-class-listinfo{
+ 	padding:5px;
+ }
